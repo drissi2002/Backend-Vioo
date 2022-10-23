@@ -36,6 +36,11 @@ public class Document {
         this.score = score ;
         this.data = data;
     }
+
+    public Document(String name, String type,String analyse, Double score) {
+    }
+    public Document(String name, String type,String analyse, Double score ,Set<Word> words) {
+    }
 }
 
 /**

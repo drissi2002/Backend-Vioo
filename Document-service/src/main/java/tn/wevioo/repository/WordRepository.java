@@ -10,5 +10,4 @@ import java.util.Set;
 @Repository
 public interface WordRepository extends JpaRepository<Word, Long> {
     public Set<Word> findByDocument(Document document);
-    public Set<Word> findByContenuContaining(String contenu);
 }
