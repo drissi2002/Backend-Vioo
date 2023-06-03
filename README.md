@@ -1,4 +1,4 @@
-# backend-keyword-based-document-visualization-and-analysis
+# backend-keyword-based-document-visualization
 A WEVIOO Intern solution for visualizing and analyzing documents by matching required keywords and highlighting them within each document.
 
 ## The Microservices Architecture preview : 
